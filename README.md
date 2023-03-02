@@ -4,7 +4,7 @@
 
 ##### Aclaración: Los links "Home", "Somos" y "Contacto" del NavBar son ilustrativos ya que aún se encuentran en construcción.
 
-[Ver GIF de navegación](https://drive.google.com/drive/folders/1Nmpiyu24YSQSXdOXln2HAES64Np8SGjx?usp=sharing)
+[Ver GIF de navegación](https://drive.google.com/file/d/1JTWb7exFrdumBKKWM9xkLl5pWPWcbf5j/view)
 
 <div style='align=center; margin-top: 25px; margin-bottom: 25px;'>
 	<img src="https://i.imgur.com/Jxxe2cv.jpg" alt="preview">
