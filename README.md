@@ -1,4 +1,4 @@
-# SASHA POTTERY - E-COMMERCE
+# VIVAS CERAMICAS - E-COMMERCE
 
 ### En este repositorio encontrarás el código fuente como desafío final del curso de React dictado por Coderhouse. El mismo trata de la simulación de un e-commerce de un emprendimiento de cerámica.
 
@@ -7,7 +7,7 @@
 [Ver GIF de navegación](https://drive.google.com/file/d/1JTWb7exFrdumBKKWM9xkLl5pWPWcbf5j/view)
 
 <div style='align=center; margin-top: 25px; margin-bottom: 25px;'>
-	<img src="https://i.imgur.com/Jxxe2cv.jpg" alt="preview">
+
 </div>
 
 ## Instalación
